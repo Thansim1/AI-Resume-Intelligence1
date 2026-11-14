@@ -1,0 +1,19 @@
+ALEX MORGAN
+Junior Python Developer
+Email: alex.morgan@example.com
+
+SUMMARY
+Computer Science graduate interested in Python development, data science,
+and machine learning. Built academic projects using Python and SQL.
+
+TECHNICAL SKILLS
+Python, SQL, Git, Java, Machine Learning, MongoDB, Analytical Thinking,
+Communication, Kotlin, C.
+
+PROJECTS
+Student Performance Analysis: Used Python and SQL to explore a fictional
+student dataset and summarize patterns.
+Task Tracker: Created a basic task tracking application using Python.
+
+EDUCATION
+BSc Computer Science, Example University, 2025

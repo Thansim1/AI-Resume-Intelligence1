@@ -1,0 +1,9 @@
+Junior Python Developer
+
+We are seeking a junior Python Developer with Python programming,
+SQL, Git, data analysis, machine learning, natural language processing,
+Pandas, NumPy, scikit-learn, and Streamlit skills.
+
+The candidate should understand data preprocessing, basic model development,
+problem solving, software testing, and clear technical communication.
+Knowledge of AWS and deployment workflows is an advantage.
